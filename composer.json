@@ -1,0 +1,23 @@
+{
+    "name": "pandaphp/kernal",
+    "description": "The core part of the pandaphp framework.",
+    "type": "project",
+    "homepage": "http://www.zcyso.com/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "One",
+            "email": "admin@zcyso.com",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "framework",
+        "PandaPHP",
+        "panda"
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "topthink/think-orm": "^1.2"
+    }
+}
